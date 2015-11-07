@@ -1,0 +1,23 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "nodejs project simpleserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carolyn Hung",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolyn0429/SimpleServer.git"
+  },
+  "keywords": [
+    "Carolyn",
+    "Hung"
+  ],
+  "bugs": {
+    "url": "https://github.com/carolyn0429/SimpleServer/issues"
+  },
+  "homepage": "https://github.com/carolyn0429/SimpleServer#readme"
+}
